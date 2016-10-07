@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfb7e3ccb1c3d81cfc97e121c88ff25a82b4bff1">
+        <dex dex="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a73d79b32b209ea8ad1d0c85c8732c1f71439bde\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_84db7e7882c611207d9961ef06ba4e2cb7fb9de0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_6430db2ba94921247f52bbea97c44f41a3e144aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_21e6cda91d09b9375058d33b84fc783b10dc745a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_d4dd444d1710351bc681461c7f6e3a1d9f6c12d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="382d5d472761376ae79e21fa638dbf49ea425fe0">
+        <dex dex="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c5c7962189246323b3cf878fdab416788dbf07c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f87f605047ca80e3ea34462105d4ac61ac1c7925\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Matt\Desktop\Tutor Finder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_5a442c4f3e1435517e7010dc3196a8ed9b61c152\classes.dex" />
+    </item>
+
+</items>
